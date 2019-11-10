@@ -1,0 +1,10 @@
+### IDE ###
+.idea
+.vscode
+
+### TOOLS ###
+/tools/
+
+### OUTPUT ###
+/build/
+/tests/

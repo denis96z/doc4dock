@@ -1,0 +1,7 @@
+---
+common:
+  registry: registry.example.com
+  group:    group
+  project:  project
+  version:  v0.0.1
+...
